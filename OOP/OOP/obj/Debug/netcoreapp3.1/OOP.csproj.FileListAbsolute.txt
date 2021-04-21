@@ -1,0 +1,26 @@
+C:\Users\Admin\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Admin\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Admin\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Admin\source\repos\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Admin\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Admin\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Admin\source\repos\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+E:\Лабы 3 курс\Об'єктно-орієнтоване програмування\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
